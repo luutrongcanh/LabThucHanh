@@ -1,2 +1,0 @@
-# LabThucHanh
-Thực hành
